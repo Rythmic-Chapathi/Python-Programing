@@ -1,0 +1,3 @@
+rithwik,60,80,99 
+rithwik,23,36,77 
+rahul,23,48,100 
